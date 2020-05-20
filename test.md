@@ -1,4 +1,4 @@
-![이미지이름](http://192.168.0.66:8081/tr?id=1212)
+![이미지이름](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png)
 
 ```
 test
